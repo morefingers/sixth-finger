@@ -1,2 +1,2 @@
 # sixth-finger
-A siple util library
+A simple util library
