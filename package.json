@@ -1,0 +1,19 @@
+{
+  "name": "sixth-finger",
+  "version": "1.0.0",
+  "description": "<img src=\"https://user-images.githubusercontent.com/1290331/183069559-7d881057-da24-4461-84da-6fb311cb6b97.png\" width=\"200\" height=\"200\" alt=\"a extra finger for your hand\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morefingers/sixth-finger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morefingers/sixth-finger/issues"
+  },
+  "homepage": "https://github.com/morefingers/sixth-finger#readme"
+}
