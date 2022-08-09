@@ -1,6 +1,6 @@
 {
   "name": "sixth-finger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "<img src=\"https://user-images.githubusercontent.com/1290331/183069559-7d881057-da24-4461-84da-6fb311cb6b97.png\" width=\"200\" height=\"200\" alt=\"a extra finger for your hand\">",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
